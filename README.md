@@ -2,6 +2,7 @@
 
 Jetpack Compose, KSP, MVVM, Hilt를 결합하여 Android 개발을 위한 템플릿<br>
 기존 Android 프로젝트에서 KAPT 대신 KSP로 마이그레이션하여 컴파일 시간을 단축하고, Hilt를 통해 각 뷰에 필요한 의존성을 주입시킴<br>
+편하게 이야기 하자면.. AOS 개발할 때 이 구조 기반으로 하면 좋지않을까 하는 생각에서 시작함<br>
 
 ## 개발 환경
 - Java: 1.8
